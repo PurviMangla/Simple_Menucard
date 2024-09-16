@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    font-family: sans-serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    color:white;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    color:white;
+}
+
+p{
+    color: white;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+img{
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-bottom: 40px;
+}
+
+#services {
+    margin: 34px;
+    display: flex;
+}
+
+#services .box {
+    border: 3px solid black;
+    text-align: center;
+    margin: 3px 6px;
+    background: none;
+}
+#services .box img {
+    height: 150px;
+    margin: auto;
+    display: block;
+}
+
+h2{
+    margin-top: 20px;
+    color: white;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.box {
+    position: relative;
+    top:24px;
+    border-radius: 10px;
+    height: 520px;
+    width: 350px;
+}
+
+#services .box1 {
+    border: 3px solid black;
+    text-align: center;
+    margin: 3px 6px;
+}
+#services .box1 img {
+    height: 150px;
+    margin: auto;
+    display: block;
+}
+
+.box1 {
+    position: relative;
+    top:24px;
+    border-radius: 10px;
+    height: 700px;
+    width: 350px;
+}
+
+.soups{
+    color: white;
+}
+
+.box1 p{
+    margin-left: 40px;
+}
+
+.para{
+    margin-bottom: 70px
+}
+
+.box3{
+    border: 3px solid black;
+    top:2px;
+    border-radius: 10px;
+    height: 580px;
+    width: 350px;
+    background-image: url('https://img.freepik.com/premium-photo/delicious-burgers-fries-with-copy-space_573056-4214.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+}
